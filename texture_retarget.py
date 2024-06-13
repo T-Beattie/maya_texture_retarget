@@ -8,10 +8,6 @@ class TextureRetarget:
     This class identifies missing texture files and checks a user defined area
     for the missing textures.
 
-    I've split up the checking and retargetting into seperate methods in the
-    event a GUI was ever used. This way, the texture paths and nodes they came
-    from can be displayed on screen and the retarget_from_folder could be used
-    in a button and a lineedit widget
     """
 
     def __init__(self) -> None:
