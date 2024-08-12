@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a234f7f4-8238-4931-a887-60e2c4e11692" name="Changes" comment="Updated">
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/build.rxt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/.idea/maya_texture_retarget.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/texture_retarget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/python/view.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/b99a49e4ec48ad4d9833734782ee775813473768/variant.json" beforeDir="false" />
-    </list>
+    <list default="true" id="a234f7f4-8238-4931-a887-60e2c4e11692" name="Changes" comment="released" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723497087686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="released">
+      <option name="closed" value="true" />
+      <created>1723497204532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723497204532</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rezd it" />
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="released" />
+    <option name="LAST_COMMIT_MESSAGE" value="released" />
   </component>
 </project>
